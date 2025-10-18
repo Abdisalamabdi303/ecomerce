@@ -31,7 +31,7 @@ const HeroSection = () => {
         <div 
           className="w-full h-full bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `('hero-perfume.jpg')`,
+         
             backgroundSize: 'contain',
             backgroundPosition: 'center center'
           }}
