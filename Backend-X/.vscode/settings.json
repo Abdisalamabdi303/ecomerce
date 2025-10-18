@@ -1,0 +1,21 @@
+{
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.git/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/.next/**": true,
+    "**/.cache/**": true,
+    "**/tmp/**": true,
+    "**/coverage/**": true
+  },
+  "search.exclude": {
+    "**/node_modules/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/.next/**": true,
+    "**/.cache/**": true,
+    "**/coverage/**": true,
+    "**/tmp/**": true
+  }
+}
